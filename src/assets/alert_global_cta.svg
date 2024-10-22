@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="784" height="156" viewBox="0 0 784 156">
+  <defs>
+    <filter id="Rectangle_2065" x="0" y="0" width="784" height="156" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="alert_global_cta" transform="translate(6 5)">
+    <g id="Group_15983" data-name="Group 15983">
+      <g transform="matrix(1, 0, 0, 1, -6, -5)" filter="url(#Rectangle_2065)">
+        <g id="Rectangle_2065-2" data-name="Rectangle 2065" transform="translate(6 5)" fill="#fadede" stroke="rgba(238,238,238,0.2)" stroke-width="1">
+          <rect width="772" height="144" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="771" height="143" rx="7.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_15982" data-name="Group 15982">
+        <g id="btn_text" transform="translate(40 96)">
+          <rect id="Rectangle_14" data-name="Rectangle 14" width="124" height="36" rx="4" fill="none"/>
+          <text id="Make_Payment" data-name="Make Payment" transform="translate(62 23)" fill="#0047bb" font-size="14" font-family="MaisonNeue-Medium, Maison Neue" font-weight="500"><tspan x="-46" y="0">Make Payment</tspan></text>
+        </g>
+        <text id="To_resume_service_please_make_a_payment._Your_service_will_be_back_on_within_24_hours_of_making_a_payment." data-name="To resume service, please make a payment. Your service will be back on within 24 hours of making a payment." transform="translate(56 49)" font-size="16" font-family="MaisonNeue-Light, Maison Neue" font-weight="300" letter-spacing="0.01em"><tspan x="0" y="14">To resume service, please make a payment. Your service will be back on within 24 hours of </tspan><tspan x="0" y="34">making a payment.</tspan></text>
+        <g id="Group_15981" data-name="Group 15981">
+          <text id="Let_s_turn_your_service_back_on" data-name="Let’s turn your service back on" transform="translate(56 17)" fill="#14161a" font-size="20" font-family="MaisonNeue-Medium, Maison Neue" font-weight="500" letter-spacing="0.01em"><tspan x="0" y="18">Let’s turn your service back on</tspan></text>
+          <path id="error_black_24dp" d="M14,2A12,12,0,1,0,26,14,12,12,0,0,0,14,2Zm1.2,18H12.8V17.6h2.4Zm0-4.8H12.8V8h2.4Z" transform="translate(14 14)" fill="#d63838"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
