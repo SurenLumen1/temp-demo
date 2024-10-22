@@ -1,0 +1,248 @@
+@media screen and (max-width:426px) {
+    #movingSection {
+        position       : relative;
+        background     : #FAFAFA 0% 0% no-repeat padding-box;
+        width          : 100%;
+        height         : 400px;
+        display        : flex;
+        flex-direction : column-reverse;
+        justify-content: flex-end;
+    }
+
+    #homebillingcontainer {
+        position       : relative;
+        background     : #FAFAFA 0% 0% no-repeat padding-box;
+        width          : 100%;
+        height         : 250px;
+        display        : flex;
+        flex-direction : row;
+        justify-content: flex-end;
+    }
+
+    #img {
+        margin    : 20px auto;
+        width     : 278px;
+        height    : 130px;
+        background: transparent url('../assets/images/illustration_moving_small.svg') no-repeat padding-box;
+        opacity   : 1;
+        position  : relative;
+    }
+
+    .mg {
+        position: relative;
+        width   : 100%;
+        display : block;
+    }
+
+    .mg .mg1 {
+        margin        : auto;
+        margin-top    : 15px;
+        width         : 138px;
+        text-align    : center;
+        font          : normal normal 300 36px/52px MaisonNeue-Light,sans-serif;
+        letter-spacing: 0px;
+        color         : #14161A;
+        opacity       : 1;
+    }
+
+    .mg2 {
+        margin        : auto;
+        margin-top    : 12px;
+        width         : 90%;
+        text-align    : center;
+        font          : normal normal 300 16px/20px Maison Neue, sans-serif;
+        letter-spacing: 0.16px;
+        color         : #14161A;
+        opacity       : 1;
+    }
+
+    .mg3 {
+        text-align     : center;
+        text-decoration: none;
+        display        : block;
+        margin         : auto;
+        margin-top     : 24px;
+        width          : 102px;
+        height         : 36px;
+        border         : 1px solid #0047BB;
+        border-radius  : 4px;
+        opacity        : 1;
+        font           : 14px/16px MaisonNeue-Medium, sans-serif;
+        color          : #0047BB;
+        cursor         : pointer;
+        letter-spacing : 0px;
+        padding-top    : 10px;
+    }
+
+    .mg3:hover {
+        background-color          : #0047BB0A;
+        transition-timing-function: ease-out;
+        transition                : 0.3s;
+        text-decoration           : none;
+    }
+
+}
+
+@media screen and (min-width:427px) and (max-width:819px) {
+    #movingSection {
+        position       : relative;
+        background     : #FAFAFA 0% 0% no-repeat padding-box;
+        width          : 100%;
+        display        : flex;
+        flex-direction : column-reverse;
+        justify-content: flex-end;
+    }
+
+    #homebillingcontainer {
+        position       : relative;
+        background     : #FAFAFA 0% 0% no-repeat padding-box;
+        width          : 100%;
+        display        : flex;
+        flex-direction : row;
+        justify-content: flex-end;
+    }
+
+    #img {
+        margin    : 20px auto;
+        width     : 406px;
+        height    : 225px;
+        background: transparent url('../assets/images/illustration_moving.svg') 0% 0% no-repeat padding-box;
+        opacity   : 1;
+        position  : relative;
+    }
+
+    .mg {
+        position: relative;
+        width   : 100%;
+        display : block;
+    }
+
+    .mg .mg1 {
+        margin        : auto;
+        margin-top    : 15px;
+        width         : 138px;
+        text-align    : center;
+        font          : normal normal 300 36px/52px MaisonNeue-Light, sans-serif;
+        letter-spacing: 0px;
+        color         : #14161A;
+        opacity       : 1;
+    }
+
+    .mg2 {
+        margin        : auto;
+        margin-top    : 12px;
+        width         : 90%;
+        text-align    : center;
+        font          : normal normal 300 16px/20px Maison Neue, sans-serif;
+        letter-spacing: 0.16px;
+        color         : #14161A;
+        opacity       : 1;
+    }
+
+    .mg3 {
+        margin         : 24px auto 20px;
+        width          : 102px;
+        height         : 36px;
+        border         : 1px solid #0047BB;
+        border-radius  : 4px;
+        opacity        : 1;
+        text-align     : center;
+        text-decoration: none;
+        display        : block;
+        font           : 14px/16px MaisonNeue-Medium, sans-serif;
+        color          : #0047BB;
+        cursor         : pointer;
+        letter-spacing : 0px;
+        padding-top    : 10px;
+    }
+
+    .mg3:hover {
+        background-color          : #0047BB0A;
+        transition-timing-function: ease-out;
+        transition                : 0.3s;
+        text-decoration           : none;
+    }
+
+}
+
+@media screen and (min-width:820px) {
+    #movingSection {
+        display        : flex;
+        position       : relative;
+        background     : #FAFAFA 0% 0% no-repeat padding-box;
+        width          : 100%;
+        height         : 376px;
+        justify-content: center;
+    }
+
+    #homebillingcontainer {
+        display        : flex;
+        position       : relative;
+        background     : #FAFAFA 0% 0% no-repeat padding-box;
+        width          : 100%;
+        height         : 376px;
+        justify-content: center;
+    }
+
+    #img {
+        margin-top : 44px;
+        margin-left: 36px;
+        display    : inline-block;
+        width      : 406px;
+        height     : 225px;
+        background : transparent url('../assets/images/illustration_moving.svg') 0% 0% no-repeat padding-box;
+        opacity    : 1;
+    }
+
+    .mg {
+        display    : inline-block;
+        margin-left: 10px;
+    }
+
+    .mg .mg1 {
+        margin-top    : 56px;
+        width         : 138px;
+        height        : 43px;
+        text-align    : left;
+        font          : normal normal 300 36px/52px MaisonNeue-Light, sans-serif;
+        letter-spacing: 0px;
+        color         : #14161A;
+        opacity       : 1;
+    }
+
+    .mg .mg2 {
+        margin-top    : 12px;
+        width         : 330px;
+        height        : 39px;
+        text-align    : left;
+        font          : normal normal 300 16px/20px Maison Neue, sans-serif;
+        letter-spacing: 0.16px;
+        color         : #14161A;
+        opacity       : 1;
+        padding-top   : 5px;
+    }
+
+    .mg .mg3 {
+        margin-top     : 24px;
+        width          : 102px;
+        height         : 36px;
+        border         : 1px solid #0047BB;
+        border-radius  : 4px;
+        opacity        : 1;
+        text-align     : center;
+        text-decoration: none;
+        display        : block;
+        font           : 14px/16px MaisonNeue-Medium, sans-serif;
+        color          : #0047BB;
+        cursor         : pointer;
+        letter-spacing : 0px;
+        padding-top    : 10px;
+    }
+
+    .mg3:hover {
+        background-color          : #0047BB0A;
+        transition-timing-function: ease-out;
+        transition                : 0.3s;
+        text-decoration           : none;
+    }
+}
