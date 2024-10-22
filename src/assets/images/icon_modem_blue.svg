@@ -1,0 +1,9 @@
+<svg id="icon_modem" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <path id="Path_578" data-name="Path 578" d="M0,0H28V28H0Z" fill="none"/>
+  <g id="Group_511" data-name="Group 511" transform="translate(6.998 3.5)">
+    <path id="Path_169" data-name="Path 169" d="M-5101.1,18280.551c.1-.561-.121-2.025,1.632-2.121s7.3-.146,8.406,0,1.513.742,1.61,2.121,1.079,14.443,1.15,15.309.049,3.01-2.063,3.273a77.98,77.98,0,0,1-9.343.113c-.889-.113-2.689-.643-2.618-3.387S-5101.195,18281.1-5101.1,18280.551Z" transform="translate(5102.338 -18278.336)" fill="none" stroke="#0047bb" stroke-width="2"/>
+    <rect id="Rectangle_1392" data-name="Rectangle 1392" width="2.333" height="2.333" transform="translate(5.835 9.333)" fill="#0047bb"/>
+    <path id="Path_170" data-name="Path 170" d="M-5097.665,18296.184c1.058-.387,10-.557,11.465,0" transform="translate(5099.007 -18291.742)" fill="none" stroke="#0047bb" stroke-width="2"/>
+    <path id="Path_171" data-name="Path 171" d="M0,.4C1.9-.115,12.473-.153,14.126.4" transform="translate(14.126 16.471) rotate(180)" fill="none" stroke="#0047bb" stroke-width="2"/>
+  </g>
+</svg>
