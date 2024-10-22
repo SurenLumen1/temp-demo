@@ -1,0 +1,25 @@
+.tile {
+  @apply items-stretch flex-grow flex-shrink;
+}
+
+.tile.is-parent {
+  @apply p-3 md:flex;
+}
+
+.tile.is-ancestor {
+  @apply -mx-3 -mt-3 md:flex;
+}
+
+.tile.is-ancestor:not(:last-child) {
+  @apply mb-3;
+}
+
+.focus-block {
+  animation-name: focusText;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+@keyframes focusText {
+  from {background-color: #b1c3e1;}
+  to {background-color: #cbd8ed;}
+}

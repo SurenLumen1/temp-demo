@@ -1,0 +1,27 @@
+<svg id="Component_590_1" data-name="Component 590 – 1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_17296" data-name="Group 17296">
+    <path id="Path_24253" data-name="Path 24253" d="M0,0H24V24H0Z" fill="none"/>
+  </g>
+  <g id="Group_17297" data-name="Group 17297" transform="translate(-2 -2)">
+    <path id="Path_24254" data-name="Path 24254" d="M4,18v-.65a.946.946,0,0,1,.41-.81A10.889,10.889,0,0,1,10,15c.03,0,1.395-.01,1.425,0,.014-.885-.012-1.07,0-2-.22-.02-1.195,0-1.425,0a12.876,12.876,0,0,0-6.61,1.82A2.922,2.922,0,0,0,2,17.35V20h9.425c0-.839-.022-1.128,0-2Z" transform="translate(1 1.7)" fill="#14161a"/>
+    <path id="Path_24255" data-name="Path 24255" d="M10,12A4,4,0,1,0,6,8,4,4,0,0,0,10,12Zm0-6A2,2,0,1,1,8,8,2.006,2.006,0,0,1,10,6Z" transform="translate(0.715 1.8)" fill="#14161a"/>
+    <g id="Group_17298" data-name="Group 17298" transform="translate(14.715 12.8)">
+      <g id="Rectangle_1651" data-name="Rectangle 1651" transform="translate(0 0)" fill="none" stroke="#14161a" stroke-width="1.25">
+        <rect width="4.4" height="4.4" rx="1" stroke="none"/>
+        <rect x="0.625" y="0.625" width="3.15" height="3.15" rx="0.375" fill="none"/>
+      </g>
+      <g id="Rectangle_1652" data-name="Rectangle 1652" transform="translate(5.5 0)" fill="none" stroke="#14161a" stroke-width="1.25">
+        <rect width="4.4" height="4.4" rx="1" stroke="none"/>
+        <rect x="0.625" y="0.625" width="3.15" height="3.15" rx="0.375" fill="none"/>
+      </g>
+      <g id="Rectangle_1653" data-name="Rectangle 1653" transform="translate(5.5 5.5)" fill="none" stroke="#14161a" stroke-width="1.25">
+        <rect width="4.4" height="4.4" rx="1" stroke="none"/>
+        <rect x="0.625" y="0.625" width="3.15" height="3.15" rx="0.375" fill="none"/>
+      </g>
+      <g id="Rectangle_1654" data-name="Rectangle 1654" transform="translate(0 5.5)" fill="none" stroke="#14161a" stroke-width="1.25">
+        <rect width="4.4" height="4.4" rx="1" stroke="none"/>
+        <rect x="0.625" y="0.625" width="3.15" height="3.15" rx="0.375" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
