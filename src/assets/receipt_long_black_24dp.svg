@@ -1,0 +1,10 @@
+<svg id="receipt_long_black_24dp" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Path_44" data-name="Path 44" d="M0,0H24V24H0Z" fill="none"/>
+  <g id="Group_91" data-name="Group 91" transform="translate(3 2)">
+    <path id="Path_45" data-name="Path 45" d="M19.5,3.5,18,2,16.5,3.5,15,2,13.5,3.5,12,2,10.5,3.5,9,2,7.5,3.5,6,2V16H3v3a3,3,0,0,0,3,3H18a3,3,0,0,0,3-3V2ZM15,20H6a1,1,0,0,1-1-1V18H15Zm4-1a1,1,0,0,1-2,0V16H8V5H19Z" transform="translate(-3 -2)" fill="#14161a"/>
+    <rect id="Rectangle_56" data-name="Rectangle 56" width="6" height="2" transform="translate(6 5)" fill="#14161a"/>
+    <rect id="Rectangle_57" data-name="Rectangle 57" width="2" height="2" transform="translate(13 5)" fill="#14161a"/>
+    <rect id="Rectangle_58" data-name="Rectangle 58" width="6" height="2" transform="translate(6 8)" fill="#14161a"/>
+    <rect id="Rectangle_59" data-name="Rectangle 59" width="2" height="2" transform="translate(13 8)" fill="#14161a"/>
+  </g>
+</svg>
