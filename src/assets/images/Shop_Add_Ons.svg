@@ -1,0 +1,32 @@
+<svg id="Component_592_2" data-name="Component 592 – 2" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Component_591_2" data-name="Component 591 – 2">
+    <rect id="Rectangle_60" data-name="Rectangle 60" width="24" height="24" fill="none"/>
+    <g id="Group_17317" data-name="Group 17317" transform="translate(-11)">
+      <g id="Group_17314" data-name="Group 17314" transform="translate(13 3)">
+        <path id="Path_46" data-name="Path 46" d="M13.8,4.8H12.4a2.8,2.8,0,1,0-5.6,0H5.4A1.4,1.4,0,0,0,4,6.2v8.4A1.4,1.4,0,0,0,5.4,16h8.4a1.4,1.4,0,0,0,1.4-1.4V6.2A1.4,1.4,0,0,0,13.8,4.8ZM9.6,3.4A1.4,1.4,0,0,1,11,4.8H8.2A1.4,1.4,0,0,1,9.6,3.4Zm4.2,11.2H5.4V6.2H6.8v.244a.7.7,0,1,0,1.4,0V6.2H11v.244a.7.7,0,1,0,1.4,0V6.2h1.4Z" fill="#0047bb"/>
+      </g>
+      <g id="Group_17316" data-name="Group 17316">
+        <g id="Group_17315" data-name="Group 17315" transform="translate(12 1)">
+          <g id="Group_17300" data-name="Group 17300" transform="translate(8 10)">
+            <g id="Rectangle_1651" data-name="Rectangle 1651" fill="none" stroke="#0047bb" stroke-width="0.75">
+              <rect width="2.222" height="2.222" rx="1" stroke="none"/>
+              <rect x="0.375" y="0.375" width="1.472" height="1.472" rx="0.625" fill="none"/>
+            </g>
+            <g id="Rectangle_1652" data-name="Rectangle 1652" transform="translate(2.778)" fill="none" stroke="#0047bb" stroke-width="0.75">
+              <rect width="2.222" height="2.222" rx="1" stroke="none"/>
+              <rect x="0.375" y="0.375" width="1.472" height="1.472" rx="0.625" fill="none"/>
+            </g>
+            <g id="Rectangle_1653" data-name="Rectangle 1653" transform="translate(2.778 2.778)" fill="none" stroke="#0047bb" stroke-width="0.75">
+              <rect width="2.222" height="2.222" rx="1" stroke="none"/>
+              <rect x="0.375" y="0.375" width="1.472" height="1.472" rx="0.625" fill="none"/>
+            </g>
+            <g id="Rectangle_1654" data-name="Rectangle 1654" transform="translate(0 2.778)" fill="none" stroke="#0047bb" stroke-width="0.75">
+              <rect width="2.222" height="2.222" rx="1" stroke="none"/>
+              <rect x="0.375" y="0.375" width="1.472" height="1.472" rx="0.625" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
